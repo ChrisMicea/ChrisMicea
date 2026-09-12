@@ -1,4 +1,4 @@
-# Hi, I'm Christian Micea, <br>Computer Engineering student @ Politehnica University of Timișoara
+## Hi, I'm Christian Micea, <br>Computer Engineering student @ Politehnica University of Timișoara
 
 # 💫 About Me:
 🌃 Based in: Timișoara, Romania🇷🇴<br>🔗 Old Github: https://github.com/christian-micea<br>🔭 Currently working on: Polishing up my previous projects and uploading them to Github✨<br>📖 Currently learning: ML + AI integrations and pipelines, HW and SW engineering, Embedded Development<br>🤝 I'm looking for help with: Finding and working on reasearch opportunities and projects<br>⚡ Fun fact: I participated in 10+ (and counting) Technology-related contests and olympiads, with a >80% win-rate😄<br>✉️ Contact me at: christian.micea@gmail.com
